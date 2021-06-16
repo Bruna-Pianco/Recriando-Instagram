@@ -7,3 +7,5 @@ O projeto é recriar a página inicial do Instagram. Realizado dentro do bootcam
 Sublime
 
 Feito com a linguagem de marcação HTML e Cascading Style Sheets CSS.
+
+Link: https://bruna-pianco.github.io/Recriando-Instagram/
